@@ -19,6 +19,12 @@ Dashboard ini bertujuan untuk:
 
 ---
 
+## Live Dashboard
+
+Dashboard dapat diakses melalui Streamlit Community Cloud:
+
+👉 [Buka Dashboard K-Means Kota Tasikmalaya](https://kmeans-kotatasikmalaya.streamlit.app/)
+
 ## Dataset
 
 Dataset yang digunakan dalam penelitian ini bersumber dari **Badan Pusat Statistik (BPS) Kota Tasikmalaya**. Data yang digunakan merupakan data kependudukan menurut kecamatan di Kota Tasikmalaya untuk periode **2023–2026**.
