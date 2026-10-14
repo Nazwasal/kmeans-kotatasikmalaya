@@ -7,3 +7,5 @@ kneed>=0.8.5
 geopandas>=0.14
 folium>=0.16
 streamlit-folium>=0.20
+matplotlib>=3.8
+pillow>=10.0
