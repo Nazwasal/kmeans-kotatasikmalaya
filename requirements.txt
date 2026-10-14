@@ -1,0 +1,9 @@
+streamlit>=1.40
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+plotly>=5.20
+kneed>=0.8.5
+geopandas>=0.14
+folium>=0.16
+streamlit-folium>=0.20
